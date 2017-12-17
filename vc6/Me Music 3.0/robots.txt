@@ -1,0 +1,6 @@
+#
+# robots.txt for Me Music
+# Version 3.0
+#
+
+User-agent: *
